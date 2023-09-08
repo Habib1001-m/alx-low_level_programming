@@ -7,7 +7,7 @@ Welcome to the alx-low_level_programming repository! This repository contains a 
 To get started with the projects and exercises in this repository, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
-git clone https://github.com/your-username/alx-low_level_programming.git
+git clone <https://github.com/your-username/alx-low_level_programming.git>
 2. Navigate to the project or exercise folder that you want to explore.
 
 3. Read the project's README.md file to understand its objectives, requirements, and any additional instructions.
@@ -21,6 +21,7 @@ git clone https://github.com/your-username/alx-low_level_programming.git
 ## Learning Objectives
 
 ### General
+
 - Gain an appreciation for the power and versatility of C programming
 - Understand the historical significance of C and its inventors: Dennis Ritchie, Brian Kernighan, and Linus Torvalds
 - Explore the compilation process and what happens when you type "gcc main.c"
@@ -36,6 +37,7 @@ git clone https://github.com/your-username/alx-low_level_programming.git
 ## Requirements
 
 ### C
+
 - Allowed editors: vi, vim, emacs
 - All files will be compiled on Ubuntu 20.04 LTS using gcc, with the following options: -Wall -Werror -Wextra -pedantic -std=gnu89
 - All files should end with a new line
@@ -46,6 +48,7 @@ git clone https://github.com/your-username/alx-low_level_programming.git
 - Code should adhere to the Betty style, which can be validated using betty-style.pl and betty-doc.pl
 
 ### Shell Scripts
+
 - Allowed editors: vi, vim, emacs
 - All scripts will be tested on Ubuntu 20.04 LTS
 - Each script should consist of exactly two lines ($ wc -l file should print 2)
@@ -75,6 +78,6 @@ Contributions to this repository are welcome! If you would like to contribute, p
 Thank you for considering contributing to this project!
 
 ## License
-This project is a part of the ALX System Engineering Program
 
-# End
+This project is a part of the ALX System Engineering Program
+**# End**
