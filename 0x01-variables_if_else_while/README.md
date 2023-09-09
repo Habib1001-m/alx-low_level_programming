@@ -1,68 +1,57 @@
 # C - Variables, if, else, while
 
-This repository contains a collection of C programs that demonstrate the usage of variables, if-else statements, and while loops. Each program focuses on a specific task and provides the expected output.
+This repository contains a collection of C programs that demonstrate the use of variables, if-else statements, and while loops. Each program focuses on a specific task and provides the expected output based on the given requirements.
 
-## List of Programs
+## Task 0: Positive anything is better than negative nothing
 
-1. **Positive anything is better than negative nothing**
+In this task, the program assigns a random number to the variable `n` each time it is executed. The goal is to print whether the number stored in `n` is positive, negative, or zero. The source code for this task can be found in the file [0-positive_or_negative.c](https://github.com/alx-low_level_programming/0x01-variables_if_else_while/blob/main/0-positive_or_negative.c).
 
-   This program assigns a random number to the variable `n` each time it is executed. It then prints whether the number stored in `n` is positive, negative, or zero.
+## Task 1: The last digit
 
-   - File: [0-positive_or_negative.c](https://github.com/alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c)
+For this task, the program assigns a random number to the variable `n` each time it is executed. The objective is to print the last digit of the number stored in `n`. The output also includes additional information based on the value of the last digit. The source code for this task can be found in the file [1-last_digit.c](https://github.com/alx-low_level_programming/0x01-variables_if_else_while/blob/main/1-last_digit.c).
 
-2. **The last digit**
+## Task 2: I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
 
-   This program assigns a random number to the variable `n` each time it is executed. It then prints the last digit of the number stored in `n`.
+In this task, the program prints the alphabet in lowercase using only the `putchar` function. The output consists of the alphabet letters followed by a new line character. The source code for this task can be found in the file [2-print_alphabet.c](https://github.com/alx-low_level_programming/0x01-variables_if_else_while/blob/main/2-print_alphabet.c).
 
-   - File: [1-last_digit.c](https://github.com/alx-low_level_programming/0x01-variables_if_else_while/1-last_digit.c)
+## Task 3: alphABET
 
-3. **I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game**
+For this task, the program prints the alphabet in lowercase and then in uppercase using only the `putchar` function. The output includes both lowercase and uppercase letters followed by a new line character. The source code for this task can be found in the file [3-print_alphabets.c](https://github.com/alx-low_level_programming/0x01-variables_if_else_while/blob/main/3-print_alphabets.c).
 
-   This program prints the alphabet in lowercase using the `putchar` function.
+## Task 4: When I was having that alphabet soup, I never thought that it would pay off
 
-   - File: [2-print_alphabet.c](https://github.com/alx-low_level_programming/0x01-variables_if_else_while/2-print_alphabet.c)
+In this task, the program prints the alphabet in lowercase, excluding the letters 'q' and 'e'. The output consists of the remaining letters followed by a new line character. The source code for this task can be found in the file [4-print_alphabt.c](https://github.com/alx-low_level_programming/0x01-variables_if_else_while/blob/main/4-print_alphabt.c).
 
-4. **alphABET**
+## Task 5: Numbers
 
-   This program prints the alphabet in lowercase and then in uppercase using the `putchar` function.
+For this task, the program prints all single-digit numbers in base 10, starting from 0. The output includes the numbers 0 to 9 followed by a new line character. The source code for this task can be found in the file [5-print_numbers.c](https://github.com/alx-low_level_programming/0x01-variables_if_else_while/blob/main/5-print_numbers.c).
 
-   - File: [3-print_alphabets.c](https://github.com/alx-low_level_programming/0x01-variables_if_else_while/3-print_alphabets.c)
+## Task 6: Numberz
 
-5. **When I was having that alphabet soup, I never thought that it would pay off**
+In this task, the program prints all single-digit numbers in base 10, starting from 0. The output includes the numbers 0 to 9, with each number printed as a character, followed by a new line character. The source code for this task can be found in the file [6-print_numberz.c](https://github.com/alx-low_level_programming/0x01-variables_if_else_while/blob/main/6-print_numberz.c).
 
-   This program prints the alphabet in lowercase, excluding the letters 'q' and 'e', using the `putchar` function.
+## Task 7: Smile in the mirror
 
-   - File: [4-print_alphabt.c](https://github.com/alx-low_level_programming/0x01-variables_if_else_while/4-print_alphabt.c)
+For this task, the program prints the lowercase alphabet in reverse order. The output includes the letters from 'z' to 'a' followed by a new line character. The source code for this task can be found in the file [7-print_tebahpla.c](https://github.com/alx-low_level_programming/0x01-variables_if_else_while/blob/main/7-print_tebahpla.c).
 
-6. **Numbers**
+## Task 8: Hexadecimal
 
-   This program prints all single-digit numbers of base 10 starting from 0.
+In this task, the program prints all the numbers of base 16 (hexadecimal) in lowercase. The output includes the numbers 0 to 9 and the letters 'a' to 'f', followed by a new line character. The source code for this task can be found in the file [8-print_base16.c](https://github.com/alx-low_level_programming/0x01-variables_if_else_while/blob/main/8-print_base16.c).
 
-   - File: [5-print_numbers.c](https://github.com/alx-low_level_programming/0x01-variables_if_else_while/5-print_numbers.c)
+## Task 9: Patience, persistence and perspiration make an unbeatable combination for success
 
-7. **Numberz**
+For this task, the program prints all possible combinations of single-digit numbers, separated by commas and spaces. The numbers are printed in ascending order. The source code for this task can be found in the file [9-print_comb.c](https://github.com/alx-low_level_programming/0x01-variables_if_else_while/blob/main/9-print_comb.c).
 
-   This program prints all single-digit numbers of base 10 starting from 0 without using any variable of type `char`.
+## Task 10: Inventing is a combination of brains and materials. The more brains you use, the less material you need
 
-   - File: [6-print_numberz.c](https://github.com/alx-low_level_programming/0x01-variables_if_else_while/6-print_numberz.c)
+In this task, the program prints all possible different combinations of two digits, separated by commas and spaces. The numbers are printed in ascending order, and duplicate combinations are excluded. The source code for this task can be found in the file [100-print_comb3.c](https://github.com/alx-low_level_programming/0x01-variables_if_else_while/blob/main/100-print_comb3.c).
 
-8. **Smile in the mirror**
+## Task 11: The success combination in business is: Do what you do better... and: do more of what you do...
 
-   This program prints the lowercase alphabet in reverse using the `putchar` function.
+For this task, the program prints all possible different combinations of three digits, separated by commas and spaces. The numbers are printed in ascending order, and duplicate combinations are excluded. The source code for this task can be found in the file [101-print_comb4.c](https://github.com/alx-low_level_programming/0x01-variables_if_else_while/blob/main/101-print_comb4.c).
 
-   - File: [7-print_tebahpla.c](https://github.com/alx-low_level_programming/0x01-variables_if_else_while/7-print_tebahpla.c)
+## Task 12: Software is eating the World
 
-9. **Hexadecimal**
+In this task, the program prints all possible combinations of two two-digit numbers, separated by spaces and commas. The numbers range from 0 to 99 and are printed in ascending order. Duplicate combinations are excluded. The source code for this task can be found in the file [102-print_comb5.c](https://github.com/alx-low_level_programming/0x01-variables_if_else_while/blob/main/102-print_comb5.c).
 
-   This program prints all the numbers of base 16 (hexadecimal) in lowercase.
-
-   - File: [8-print_base16.c](https://github.com/alx-low_level_programming/0x01-variables_if_else_while/8-print_base16.c)
-
-10. **Patience, persistence and perspiration make an unbeatable combination for success**
-
-    This program prints all possible combinations of single-digit numbers, separated by commas and spaces.
-
-    - File: [9-print_comb.c](https://github.com/alx-low_level_programming/0x01-variables_if_else_while/9-print_comb.c)
-
-Feel free to explore each program and run them to see the output. Happy coding!
-
+Feel free to explore the repository and run the programs to see the expected outputs. Each task provides a unique opportunity to practice and understand variables, if-else statements, and while loops in the C programming language.
