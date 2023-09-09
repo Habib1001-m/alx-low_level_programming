@@ -46,7 +46,7 @@ For this task, the program prints all possible combinations of single-digit numb
 
 In this task, the program prints all possible different combinations of two digits, separated by commas and spaces. The numbers are printed in ascending order, and duplicate combinations are excluded. The source code for this task can be found in the file [100-print_comb3.c](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x01-variables_if_else_while/100-print_comb3.c).
 
-## Task 11: The success combination in business is: Do what you do better... and: do more of what you do...
+## Task 11: The success combination in business is: Do what you do better... and: do more of what you do
 
 For this task, the program prints all possible different combinations of three digits, separated by commas and spaces. The numbers are printed in ascending order, and duplicate combinations are excluded. The source code for this task can be found in the file [101-print_comb4.c](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x01-variables_if_else_while/101-print_comb4.c).
 
