@@ -115,9 +115,36 @@ In this task, you need to write a function that adds two integers and returns th
 
 In this task, you need to write a function that prints all natural numbers from a given number `n` up to 98, followed by a new line. The numbers should be separated by a comma and a space. The first printed number should be the number passed to your function, and the last printed number should be 98.
 
+## Task 12: Print the Fibonacci sequence
+
+- File: `12-fibonacci.c`
+- Prototype: `void print_fibonacci(void)`
+
+In this task, you need to write a function that prints the Fibonacci sequence up to a certain limit. The function should start with 0 and 1, and each subsequent number should be the sum of the previous two numbers. The sequence should be printed in a comma-separated format.
+
+## Task 13: Find and print the largest prime factor
+
+- File: `13-largest_prime_factor.c`
+- Prototype: `void print_largest_prime_factor(long n)`
+
+In this task, you need to write a function that finds and prints the largest prime factor of a given number `n`. The function should iterate from 2 to the square root of `n` and check if each number is a factor of `n`. If a factor is found, it should be checked if it is a prime number. The largest prime factor should be printed.
+
+## Task 14: Print a square
+
+- File: `14-print_square.c`
+- Prototype: `void print_square(int size)`
+
+In this task, you need to write a function that prints a square of a given size using the `#` character. The size represents the number of rows and columns in the square. The function should print the square using nested loops.
+
+## Task 15: Print a triangle
+
+- File: `15-print_triangle.c`
+- Prototype: `void print_triangle(int size)`
+
+In this task, you need to write a function that prints a triangle of a given size using the `#` character. The size represents the number of rows in the triangle. The function should print the triangle using nested loops.
+
 That's it! These are the tasks included in the 0x02. C - Functions, nested loops project. Each task has its own file and prototype, and you need to implement the required functionality according to the given specifications.
 
 Remember to follow the requirements mentioned earlier, such as using the correct file names, including the necessary prototypes in the header file `main.h`, and adhering to the coding style guidelines.
 
 Feel free to explore the project directory in the GitHub repository `alx-low_level_programming` for more details and to access the files associated with each task.
-
