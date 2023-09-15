@@ -40,14 +40,13 @@ Please refer to the respective task folders for more details on each task.
 
 ## Repository Structure
 
-- [0-main.c](https://github.com/alx-low_level_programming/0x03-debugging/blob/main/0-main.c)
-- [1-main.c](https://github.com/alx-low_level_programming/0x03-debugging/blob/main/1-main.c)
-- [2-largest_number.c](https://github.com/alx-low_level_programming/0x03-debugging/blob/main/2-largest_number.c)
-- [3-convert_day.c](https://github.com/alx-low_level_programming/0x03-debugging/blob/main/3-convert_day.c)
-- [3-print_remaining_days.c](https://github.com/alx-low_level_programming/0x03-debugging/blob/main/3-print_remaining_days.c)
-- [3-main_a.c](https://github.com/alx-low_level_programming/0x03-debugging/blob/main/3-main_a.c)
-- [3-main_b.c](https://github.com/alx-low_level_programming/0x03-debugging/blob/main/3-main_b.c)
-- [main.h](https://github.com/alx-low_level_programming/0x03-debugging/blob/main/main.h)
+- [0-main.c]([https://github.com/alx-low_level_programming/0x03-debugging/blob/main/](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/0-main.c)
+- [1-main.c]([https://github.com/alx-low_level_programming/0x03-debugging/blob/main/](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/1-main.c)
+- [2-largest_number.c](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/2-largest_number.c)
+- [3-convert_day.c](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/3-convert_day.c)
+- [3-print_remaining_days.c](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/3-print_remaining_days.c)
+- [3-main_a.c](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/3-main_a.c)
+- [main.h](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/main.h)
 
 Feel free to explore the repository for the code solutions to each task.# C Debugging Project
 
@@ -91,13 +90,12 @@ Please refer to the respective task folders for more details on each task.
 
 ## Repository Structure
 
-- [0-main.c](https://github.com/alx-low_level_programming/0x03-debugging/blob/main/0-main.c)
-- [1-main.c](https://github.com/alx-low_level_programming/0x03-debugging/blob/main/1-main.c)
-- [2-largest_number.c](https://github.com/alx-low_level_programming/0x03-debugging/blob/main/2-largest_number.c)
-- [3-convert_day.c](https://github.com/alx-low_level_programming/0x03-debugging/blob/main/3-convert_day.c)
-- [3-print_remaining_days.c](https://github.com/alx-low_level_programming/0x03-debugging/blob/main/3-print_remaining_days.c)
-- [3-main_a.c](https://github.com/alx-low_level_programming/0x03-debugging/blob/main/3-main_a.c)
-- [3-main_b.c](https://github.com/alx-low_level_programming/0x03-debugging/blob/main/3-main_b.c)
-- [main.h](https://github.com/alx-low_level_programming/0x03-debugging/blob/main/main.h)
+- [0-main.c]([https://github.com/alx-low_level_programming/0x03-debugging/blob/main/](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/0-main.c)
+- [1-main.c]([https://github.com/alx-low_level_programming/0x03-debugging/blob/main/](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/1-main.c)
+- [2-largest_number.c](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/2-largest_number.c)
+- [3-convert_day.c](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/3-convert_day.c)
+- [3-print_remaining_days.c](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/3-print_remaining_days.c)
+- [3-main_a.c](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/3-main_a.c)
+- [main.h](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/main.h)
 
 Feel free to explore the repository for the code solutions to each task.
