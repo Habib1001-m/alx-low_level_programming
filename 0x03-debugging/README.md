@@ -40,8 +40,8 @@ Please refer to the respective task folders for more details on each task.
 
 ## Repository Structure
 
-- [0-main.c]([https://github.com/alx-low_level_programming/0x03-debugging/blob/main/](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/0-main.c)
-- [1-main.c]([https://github.com/alx-low_level_programming/0x03-debugging/blob/main/](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/1-main.c)
+- [0-main.c](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/0-main.c)
+- [1-main.c](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/1-main.c)
 - [2-largest_number.c](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/2-largest_number.c)
 - [3-convert_day.c](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/3-convert_day.c)
 - [3-print_remaining_days.c](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/3-print_remaining_days.c)
@@ -90,8 +90,8 @@ Please refer to the respective task folders for more details on each task.
 
 ## Repository Structure
 
-- [0-main.c]([https://github.com/alx-low_level_programming/0x03-debugging/blob/main/](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/0-main.c)
-- [1-main.c]([https://github.com/alx-low_level_programming/0x03-debugging/blob/main/](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/1-main.c)
+- [0-main.c](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/0-main.c)
+- [1-main.c](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/1-main.c)
 - [2-largest_number.c](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/2-largest_number.c)
 - [3-convert_day.c](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/3-convert_day.c)
 - [3-print_remaining_days.c](https://github.com/Habib1001-m/alx-low_level_programming/blob/master/0x03-debugging/3-print_remaining_days.c)
