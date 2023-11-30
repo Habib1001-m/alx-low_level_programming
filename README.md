@@ -12,7 +12,7 @@ Welcome to the `alx-low_level_programming` repository! This repository serves as
 - [Contributing](#contributing)
 - [License](#license)
 
-## introduction
+## Introduction
 
 This repository is part of the ALX System Engineering Program and is dedicated to low-level programming in C. It provides a hands-on approach to mastering key concepts, tools, and techniques necessary for building robust and efficient software systems.
 
