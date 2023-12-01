@@ -1,31 +1,29 @@
 #include "main.h"
 
 /**
- * is_prime_number - Checks if a number is a prime number.
- * @n: The number to be checked.
- *
- * Return: 1 if the number is prime, 0 otherwise.
+ * check - checks to see if number is prime
+ * @a:int
+ * @b:int
+ * Return:int
  */
-int is_prime_number(int n)
+int check(int a, int b)
 {
-    return helper_prime(n, 2);
+	if (b < 2 || b % a == 0)
+		return (0);
+	else if (a > b / 2)
+		return (1);
+	else
+		return (check(a + 1, b));
 }
 
 /**
- * helper_prime - A helper function for checking prime numbers.
- * @n: The number to be checked.
- * @i: The current divisor.
- *
- * Return: 1 if the number is prime, 0 otherwise.
+ * is_prime_number - states if number is prime
+ * @n:int
+ * Return:int
  */
-int helper_prime(int n, int i)
+int is_prime_number(int n)
 {
-    if (n < 2)
-        return 0;
-    else if (i == n)
-        return 1;
-    else if (n % i == 0)
-        return 0;
-    else
-        return helper_prime(n, i + 1);
+	if (n == 2)
+		return (1);
+	return (check(2, n));
 }
